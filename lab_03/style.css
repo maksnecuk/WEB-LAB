@@ -1,0 +1,18 @@
+table {
+    width: 500px;
+    border: none;
+    border-spacing: 0;
+    text-align: left;
+}
+table td, table th {
+    border: 1px solid #6395ff;
+    padding: 5px 10px;
+}
+table thead {
+    background-color: #dae1f8;
+}
+table tfoot {
+    background-color: #577b6b;
+    color: #fff;
+    text-align: right;
+}
