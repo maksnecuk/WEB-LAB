@@ -1,4 +1,4 @@
-console.log("Teslyuk Natalya");
+console.log("Netsiuk Maksym");
 
 let num;
 let str;
@@ -21,7 +21,7 @@ document.write("Value of the second variable after copying: ", str,"<br>")
 
 
 let object = {
-    "String": "Natalya",
+    "String": "Maksym",
     "Number": 18,
     "Boolean": true,
     "Undefined": undefined,
@@ -43,10 +43,10 @@ console.log("Birth year: ",birth_year, typeof(birth_year));
 let isMarried = false;
 console.log("isMarried:", isMarried, typeof(isMarried));
 
-name="Natalya"; 
+name="Maksym"; 
 console.log("Name:",name,typeof(name));
 
-surename="Tesluyk";
+surename="Netsiuk";
 console.log("Surename: ",surename,typeof(surename));
 
 class_group="CS-321";
